@@ -1,2 +1,2 @@
 # Golang-Learn
-  Alguns códigos simples em Go para tentar aprender a linguagem.
+  Alguns códigos simples em Go para estudo da linguagem.
